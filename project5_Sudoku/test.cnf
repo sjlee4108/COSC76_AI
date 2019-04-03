@@ -1,0 +1,55 @@
+WA_r WA_g WA_b 
+NT_r NT_g NT_b 
+SA_r SA_g SA_b 
+Q_r Q_g Q_b 
+NSW_r NSW_g NSW_b 
+V_r V_g V_b 
+T_r T_g T_b 
+-WA_r -WA_g
+-WA_r -WA_b
+-WA_g -WA_b
+-NT_r -NT_g
+-NT_r -NT_b
+-NT_g -NT_b
+-SA_r -SA_g
+-SA_r -SA_b
+-SA_g -SA_b
+-Q_r -Q_g
+-Q_r -Q_b
+-Q_g -Q_b
+-NSW_r -NSW_g
+-NSW_r -NSW_b
+-NSW_g -NSW_b
+-V_r -V_g
+-V_r -V_b
+-V_g -V_b
+-T_r -T_g
+-T_r -T_b
+-T_g -T_b
+-WA_r -NT_r
+-WA_r -SA_r
+-SA_r -Q_r
+-SA_r -NSW_r
+-SA_r -V_r
+-NT_r -Q_r
+-Q_r -NSW_r
+-NSW_r -V_r
+-SA_r -NT_r
+-WA_g -NT_g
+-WA_g -SA_g
+-SA_g -Q_g
+-SA_g -NSW_g
+-SA_g -V_g
+-NT_g -Q_g
+-Q_g -NSW_g
+-NSW_g -V_g
+-SA_g -NT_g
+-WA_b -NT_b
+-WA_b -SA_b
+-SA_b -Q_b
+-SA_b -NSW_b
+-SA_b -V_b
+-NT_b -Q_b
+-Q_b -NSW_b
+-NSW_b -V_b
+-SA_b -NT_b
